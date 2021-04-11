@@ -1,3 +1,6 @@
 numpy==1.19.5
 matplotlib==3.3.4
 streamlit==0.79.0
+plotly==4.14.3
+altair==4.1.0
+pandas==1.2.3
